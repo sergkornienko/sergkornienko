@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Programmer writing code](https://giphy.com/embed/ZVik7pBtu9dNS)
+![Programmer writing code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 <!--
 **sergkornienko/sergkornienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
